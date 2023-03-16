@@ -6,7 +6,7 @@ Knowledge of text functions in Excel is a necessity for any professional, studen
 <a href="https://medium.com/@basubinayak05/a-compilation-of-text-functions-82197a2337"><em><strong>A Compilation of Text functions(in Excel and Google Sheet)</strong></em></a>
 
 ## Cell Referencing and Named Ranges 
-Forming tables and using named ranges are an essential skill in Excel. My article <a href="https://medium.com/@basubinayak05/cell-referencing-and-named-ranges-3d524ba504b2"><e><strong>Cell Referencing and Named Ranges</strong></em></a> covers this topic entirely. Knowledge about the usage of named ranges often comes handy while we try to make visually effective dashboards. 
+Forming tables and using named ranges are an essential skill in Excel. My article <a href="https://medium.com/@basubinayak05/cell-referencing-and-named-ranges-3d524ba504b2"><em><strong>Cell Referencing and Named Ranges</strong></em></a> covers this topic entirely. Knowledge about the usage of named ranges often comes handy while we try to make visually effective dashboards. 
 
 ## Logical and Lookup Functions in Excel 
 
